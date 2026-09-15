@@ -13,5 +13,11 @@ Ejemplo: `/crear-oferta servicio de asesoría para restaurantes; audiencia: prop
 ## Cómo usarlo en la comunidad
 Elige un problema real de tus clientes, ejecuta un comando, revisa cifras, testimonios, enlaces, condiciones y consentimiento; prueba una variante y registra el resultado. Digital Todo en Uno puede ofrecer herramientas de CRM y automatización, pero no debes atribuir capacidades, condiciones comerciales o resultados específicos sin comprobarlos.
 
-## Origen y licencia
-Esta es una redacción original inspirada en las categorías de trabajo del [repositorio hormozi-skill de High Value LLC](https://github.com/highvalue-llc/hormozi-skill); no incorpora sus textos de referencia ni se presenta como obra de Alex Hormozi. Contenido propio publicado bajo [MIT](LICENSE). “Digital Todo en Uno” identifica la comunidad para la que se redactó; la licencia del texto no concede derechos de marca.
+## Autor
+**Digital Todo en Uno LLC**, con la visión editorial de **Miguel Torres Coach**. Creado para la comunidad de Digital Todo en Uno bajo el enfoque “De saber a hacer” y la frase “Haz valer lo que sabes”.
+
+## Referencia
+La estructura de temas se inspiró en el [repositorio hormozi-skill de High Value LLC](https://github.com/highvalue-llc/hormozi-skill). Esta versión fue redactada para Digital Todo en Uno; no incorpora los textos de referencia del repositorio citado ni atribuye su contenido a Miguel Torres Coach.
+
+## Licencia
+El contenido de esta versión se publica bajo [MIT](LICENSE). Las marcas “Digital Todo en Uno” y “Miguel Torres Coach” conservan sus respectivos derechos; esta licencia no concede derechos de uso de marca.
