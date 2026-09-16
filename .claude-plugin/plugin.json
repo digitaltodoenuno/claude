@@ -1,8 +1,9 @@
 {
   "name": "dtu-marketing",
-  "version": "1.0.0",
-  "description": "Guías de marketing para la comunidad Digital Todo en Uno",
+  "version": "2.0.0",
+  "description": "Cerebro de marketing: ofertas, leads y modelos de ingresos para Digital Todo en Uno y Miguel Torres Coach",
   "author": {
-    "name": "Digital Todo en Uno LLC"
+    "name": "Digital Todo en Uno LLC",
+    "editorial": "Miguel Torres Coach"
   }
 }
