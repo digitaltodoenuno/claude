@@ -4,7 +4,7 @@ Skill de trabajo desarrollado por Digital Todo en Uno LLC con la visión editori
 
 ## Qué contiene
 - [Guía principal y mapa de rutas](skills/dtu-marketing/SKILL.md).
-- Doce [guías ampliadas](skills/dtu-marketing/references/01-mapa-del-cerebro.md) sobre mercado, oferta, leads, canales, terceros, dinero, copy, aplicación en DTU y límites de fuentes, junto a las cinco guías de redacción anteriores. En total: **17 referencias**.
+- Quince [guías ampliadas](skills/dtu-marketing/references/01-mapa-del-cerebro.md) sobre mercado, oferta, leads, canales, terceros, dinero, copy, talleres prácticos, aplicación en DTU y límites de fuentes, junto a las cinco guías de redacción anteriores. En total: **20 referencias**.
 - Trece comandos: `/crear-oferta`, `/escribir-hooks`, `/pagina-ventas`, `/guion-vsl`, `/emails-venta`, `/lead-magnet`, `/revisar-copy`, `/script-ventas`, `/anuncios`, `/diagnostico-marketing`, `/modelo-ingresos`, `/plan-leads` y `/continuidad`.
 
 ## Uso
