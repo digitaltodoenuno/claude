@@ -1,23 +1,22 @@
-# Herramientas de marketing para la comunidad Digital Todo en Uno
+# Cerebro de marketing para la comunidad Digital Todo en Uno
 
-Skill original de Digital Todo en Uno para preparar ofertas, contenido y mensajes comerciales con ayuda de Claude. Funciona para negocios de cualquier giro; los ejemplos de DTU sirven como guía, no como datos de cada negocio.
+Skill de trabajo desarrollado por Digital Todo en Uno LLC con la visión editorial de Miguel Torres Coach. Reúne un mapa operativo original inspirado en tres libros de Alex Hormozi: **$100M Offers** (qué ofrecer), **$100M Leads** (cómo captar personas interesadas) y **$100M Money Models** (cómo estructurar entrada, ampliaciones, alternativas y continuidad). Ayuda a pasar de la idea a una pieza revisable y un experimento con datos.
 
-## Incluye
-Cinco guías: ofertas, captación, páginas y mensajes de venta, títulos y ganchos, y revisión editorial. Nueve comandos: `/crear-oferta`, `/escribir-hooks`, `/pagina-ventas`, `/guion-vsl`, `/emails-venta`, `/lead-magnet`, `/revisar-copy`, `/script-ventas` y `/anuncios`.
+## Qué contiene
+- [Guía principal y mapa de rutas](skills/dtu-marketing/SKILL.md).
+- Doce [guías ampliadas](skills/dtu-marketing/references/01-mapa-del-cerebro.md) sobre mercado, oferta, leads, canales, terceros, dinero, copy, aplicación en DTU y límites de fuentes, junto a las cinco guías de redacción anteriores. En total: **17 referencias**.
+- Trece comandos: `/crear-oferta`, `/escribir-hooks`, `/pagina-ventas`, `/guion-vsl`, `/emails-venta`, `/lead-magnet`, `/revisar-copy`, `/script-ventas`, `/anuncios`, `/diagnostico-marketing`, `/modelo-ingresos`, `/plan-leads` y `/continuidad`.
 
-## Instalación
-En Claude Code, copia `skills/dtu-marketing/` al directorio `.claude/skills/dtu-marketing/` de tu proyecto. Los comandos de `commands/` se pueden instalar según la versión y modalidad de Claude que uses; en cualquier caso, puedes solicitar la misma tarea en lenguaje natural. Lee primero [la guía del skill](skills/dtu-marketing/SKILL.md).
+## Uso
+Instala la carpeta `skills/dtu-marketing/` en `.claude/skills/dtu-marketing/` de tu proyecto. Instala `commands/` si tu modalidad de Claude los admite, o formula la solicitud en lenguaje natural. Ejemplo: `/diagnostico-marketing audiencia: restaurantes; oferta: asesoría de seguimiento; precio: pendiente; principal bloqueo: pocos prospectos cualificados`. El sistema señalará `[POR CONFIRMAR]` en datos ausentes y sugerirá qué medir. Un texto preparado no es una campaña ejecutada.
 
-Ejemplo: `/crear-oferta servicio de asesoría para restaurantes; audiencia: propietarios; precio: pendiente`. Pide que la IA marque los datos pendientes antes de publicar. Una salida generada es un borrador sujeto a revisión humana, no una campaña publicada.
-
-## Cómo usarlo en la comunidad
-Elige un problema real de tus clientes, ejecuta un comando, revisa cifras, testimonios, enlaces, condiciones y consentimiento; prueba una variante y registra el resultado. Digital Todo en Uno puede ofrecer herramientas de CRM y automatización, pero no debes atribuir capacidades, condiciones comerciales o resultados específicos sin comprobarlos.
+El método funciona para negocios de miembros de la comunidad aunque no utilicen GoHighLevel. Cuando sí lo utilizan, la [guía de aplicación DTU](skills/dtu-marketing/references/11-aplicacion-ghl-comunidad.md) explica qué comprobar antes de poner un flujo en vivo.
 
 ## Autor
-**Digital Todo en Uno LLC**, con la visión editorial de **Miguel Torres Coach**. Creado para la comunidad de Digital Todo en Uno bajo el enfoque “De saber a hacer” y la frase “Haz valer lo que sabes”.
+**Digital Todo en Uno LLC**, con la visión editorial de **Miguel Torres Coach**. Redactado bajo el método “De saber a hacer” y la frase “Haz valer lo que sabes”.
 
-## Referencia
-La estructura de temas se inspiró en el [repositorio hormozi-skill de High Value LLC](https://github.com/highvalue-llc/hormozi-skill). Esta versión fue redactada para Digital Todo en Uno; no incorpora los textos de referencia del repositorio citado ni atribuye su contenido a Miguel Torres Coach.
+## Fuentes y límites
+Consulta [fuentes y límites](skills/dtu-marketing/references/12-fuentes-limites.md). Los tres PDFs que proporcionó Miguel se usaron solo para orientar la síntesis; no se subieron a GitHub ni se copiaron capítulos. El PDF etiquetado “Leads (Español)” contiene texto en francés con errores: su nombre no certifica que sea una traducción española fiable. El [repositorio de High Value LLC](https://github.com/highvalue-llc/hormozi-skill) inspiró la organización de temas, pero sus guías extensas no se importaron. La autoría de los libros corresponde a sus titulares; esta herramienta no se presenta como producto oficial de Hormozi ni Acquisition.com.
 
 ## Licencia
-El contenido de esta versión se publica bajo [MIT](LICENSE). Las marcas “Digital Todo en Uno” y “Miguel Torres Coach” conservan sus respectivos derechos; esta licencia no concede derechos de uso de marca.
+El contenido original de este repositorio se publica bajo [MIT](LICENSE). La licencia no concede derechos sobre las marcas Digital Todo en Uno, Miguel Torres Coach o de los autores de los libros.
