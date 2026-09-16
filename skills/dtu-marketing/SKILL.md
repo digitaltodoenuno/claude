@@ -1,23 +1,41 @@
 ---
 name: dtu-marketing
-description: Ayuda a crear y revisar ofertas, ganchos, páginas comerciales, guiones de video, correos, recursos gratuitos, conversaciones de venta y anuncios para la comunidad Digital Todo en Uno. Actívalo cuando el usuario solicite uno de esos activos.
+description: Cerebro de marketing para la comunidad Digital Todo en Uno y Miguel Torres Coach. Ayuda a diagnosticar mercado, diseñar ofertas, captar leads, redactar activos, probar anuncios y evaluar modelos de ingresos; actívalo cuando se solicite alguna de estas tareas.
 ---
 
-# Marketing de Digital Todo en Uno: de saber a hacer
+# Cerebro de marketing: Digital Todo en Uno + Miguel Torres Coach
 
-Ayuda a una persona a convertir lo que sabe en una oferta clara y mensajes que se puedan comprobar. Escribe en el idioma del usuario; en español usa un tono natural, directo y cálido. La frase “Haz valer lo que sabes” puede aparecer cuando represente realmente la marca de DTU o Miguel Torres Coach; no la impongas a los negocios de los miembros.
+Sistema de consulta y ejecución inspirado en las ideas de $100M Offers, $100M Leads y $100M Money Models de Alex Hormozi. Es una elaboración original de DTU: explica el porqué, propone un paso concreto y exige comprobar condiciones y resultados. No suplanta los libros ni da acceso a los PDFs adjuntos a quien instale el skill.
 
-## Antes de escribir
-Identifica audiencia, problema, oferta, precio, prueba disponible, canal y acción esperada. Aprovecha lo que ya te dieron. Si falta un dato indispensable, marca `[POR CONFIRMAR]` y prepara una versión revisable. Pregunta solo cuando la decisión cambie el resultado.
+## Cómo razonar antes de actuar
+1. Define audiencia, problema en palabras del cliente, oferta real, precio/alcance confirmados, evidencia, canal, consentimiento y objetivo.
+2. Diagnostica la etapa: mercado → oferta → captación → conversación/venta → ingresos y continuidad. Lee [el mapa](references/01-mapa-del-cerebro.md).
+3. Lee las referencias aplicables; no cargues todo para una tarea pequeña.
+4. Entrega un activo listo para revisar, hipótesis de prueba, condiciones pendientes y una acción concreta.
+5. Si falta un dato esencial, usa `[POR CONFIRMAR]` y pregunta solo si la ausencia cambia sustancialmente la ejecución.
 
-## Guías según la tarea
-- Ofertas, precios y condiciones: [ofertas](references/ofertas.md).
-- Recursos gratuitos, captación y seguimiento: [captacion](references/captacion.md).
-- Páginas, video, email y conversaciones: [mensajes-venta](references/mensajes-venta.md).
-- Títulos y primeras frases: [ganchos](references/ganchos.md).
-- Auditoría y edición: [revision](references/revision.md).
+## Rutas por libro y tarea
+| Solicitud | Referencias |
+| --- | --- |
+| Qué vender, a quién y por qué | [Mercado y valor](references/02-offers-mercado-valor.md), [precio y mejoras](references/03-offers-precio-mejoras.md) |
+| Lead magnet, formulario, calidad de lead | [Recurso y conversión](references/04-leads-recurso-y-conversion.md) |
+| Contenido, alcance cálido/frío, anuncios | [Cuatro canales](references/05-leads-cuatro-canales.md) |
+| Referidos, equipos, afiliados, métricas | [Terceros y medición](references/06-leads-otras-personas-y-medicion.md) |
+| Primera compra, prueba o incentivo | [Oferta de entrada](references/07-money-models-entrada.md) |
+| Ampliaciones y versiones reducidas | [Upsell y downsell](references/08-money-models-upsell-downsell.md) |
+| Suscripción, renovación y retención | [Continuidad](references/09-money-models-continuidad.md) |
+| Redacción, ganchos, revisión | [Pruebas y ética](references/10-copy-etica-y-pruebas.md), [mensajes](references/mensajes-venta.md), [ganchos](references/ganchos.md), [revisión](references/revision.md) |
+| Configurar en GHL, si aplica | [Aplicación DTU](references/11-aplicacion-ghl-comunidad.md) |
+| Atribución y límites del material | [Fuentes](references/12-fuentes-limites.md) |
 
-## Reglas para todos los entregables
-Explica el problema, la propuesta, la evidencia disponible y un siguiente paso concreto. No inventes resultados, testimonios, cifras, descuentos, cupos, plazos, garantías, funciones de GoHighLevel ni disponibilidad de canales. Separa ejemplo hipotético de hecho comprobado. Presenta precios o condiciones de DTU solo si han sido confirmados para la oferta y fecha concretas. No uses escasez artificial ni promesas absolutas. En email y mensajería respeta las preferencias de contacto, bajas y permisos; señala los puntos que requieren revisión normativa local. Para afirmaciones de salud o ingresos, exige fuentes y aprobación humana antes de publicar.
+## Reglas que prevalecen
+Escribe en el idioma del usuario; en español mexicano usa voz clara, cálida y práctica. “Haz valer lo que sabes” y “De saber a hacer” pueden usarse para mensajes de las marcas, no como frase obligatoria de negocios ajenos. Distingue descripción de función, beneficio potencial y resultado medido. No inventes precios, capacidades de GoHighLevel, testimonios, garantías, porcentajes, plazos, políticas ni citas de libros. No finjas que una IA instaló un workflow, envió un correo o publicó un anuncio si solo preparó texto. Los contactos tienen derecho a bajas y preferencias; revisa consentimiento y normativa local al ejecutar. Las decisiones de salud, ingresos y financiación requieren revisión humana y evidencia adicional.
 
-Entrega el activo solicitado completo, con etiquetas `[POR CONFIRMAR]` donde corresponda, y una breve lista de verificación previa a publicar. Para una secuencia, muestra objetivo, orden, condición de entrada y salida; para anuncios, indica las piezas que requieren revisión de políticas de plataforma. Un número inventado nunca se debe convertir en “prueba”.
+## Salidas útiles
+- Diagnóstico: situación, bloqueo, qué medir, alternativa, primer experimento y criterio para detenerlo.
+- Oferta: público, objetivo verificable, componentes, límites, precio y condiciones; compara costos.
+- Captación: canal, recurso, mensaje, captura con permiso, entrega, seguimiento, baja y métricas.
+- Modelo de ingresos: entrada, ampliación, alternativa, continuidad, margen por cohorte y condiciones.
+- Copy: texto completo, evidencia autorizada, CTA y pendientes antes de publicar.
+
+Los nueve comandos iniciales y cuatro nuevos comandos de modelo de ingresos se encuentran en `commands/`. Si el entorno no admite comandos, pide la tarea en lenguaje natural. Para detalles sobre la procedencia de las ideas, lee [fuentes y límites](references/12-fuentes-limites.md).
