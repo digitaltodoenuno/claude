@@ -28,6 +28,9 @@ Sistema de consulta y ejecución inspirado en las ideas de $100M Offers, $100M L
 | Configurar en GHL, si aplica | [Aplicación DTU](references/11-aplicacion-ghl-comunidad.md) |
 | Atribución y límites del material | [Fuentes](references/12-fuentes-limites.md) |
 
+## Plantillas de aplicación
+Para redactar una oferta y una conversación completa, lee [taller de oferta y venta](references/13-plantillas-oferta-venta.md). Para organizar un recurso, canal y prueba, lee [taller de leads y experimentos](references/14-plantillas-leads-experimentos.md). Para comparar entrada, ampliación y continuidad con cifras, lee [cálculos y cohortes](references/15-calculos-cohortes-y-modelo.md). Todos los números de sus ejemplos son hipotéticos.
+
 ## Reglas que prevalecen
 Escribe en el idioma del usuario; en español mexicano usa voz clara, cálida y práctica. “Haz valer lo que sabes” y “De saber a hacer” pueden usarse para mensajes de las marcas, no como frase obligatoria de negocios ajenos. Distingue descripción de función, beneficio potencial y resultado medido. No inventes precios, capacidades de GoHighLevel, testimonios, garantías, porcentajes, plazos, políticas ni citas de libros. No finjas que una IA instaló un workflow, envió un correo o publicó un anuncio si solo preparó texto. Los contactos tienen derecho a bajas y preferencias; revisa consentimiento y normativa local al ejecutar. Las decisiones de salud, ingresos y financiación requieren revisión humana y evidencia adicional.
 
