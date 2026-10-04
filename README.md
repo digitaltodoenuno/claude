@@ -30,3 +30,8 @@ Antes de guardar información que cruce proyectos, consultar el mapa maestro int
 `digitaltodoenuno/digital-todo-en-uno/docs/00-ecosistema-repositorios.md`
 
 Regla: **responsabilidad canónica primero, Topics como señal de confirmación**. Si varios repositorios comparten un Topic, no duplicar contenido; guardar el detalle en la fuente más específica y enlazarlo cuando otra área lo necesite.
+
+## Mapas visuales de productos y programas
+
+- [Guía y prompts: crea el mapa visual de tu programa](docs/mapa-visual-producto-programa.md).
+- Al terminar cada app o desarrollo, sugerir un mapa de su recorrido real de usuario. Consultar la [regla de cierre DTU](https://github.com/digitaltodoenuno/digital-todo-en-uno/blob/main/docs/31-mapa-visual-regla-cierre.md).
