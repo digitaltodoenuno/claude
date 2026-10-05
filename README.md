@@ -35,3 +35,7 @@ Regla: **responsabilidad canónica primero, Topics como señal de confirmación*
 
 - [Guía y prompts: crea el mapa visual de tu programa](docs/mapa-visual-producto-programa.md).
 - Al terminar cada app o desarrollo, sugerir un mapa de su recorrido real de usuario. Consultar la [regla de cierre DTU](https://github.com/digitaltodoenuno/digital-todo-en-uno/blob/main/docs/31-mapa-visual-regla-cierre.md).
+
+## Plantillas de correo DTU
+
+[Campaña cupón y remarketing — octubre 2026](templates/dtu-cupon-octubre-2026/README.md): siete piezas HTML con diseño DTU, asuntos y condiciones de vigencia. Plantillas guardadas en GHL; crear el contenido no acredita que una campaña haya sido publicada o enviada.
