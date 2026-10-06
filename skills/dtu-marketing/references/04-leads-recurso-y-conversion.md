@@ -9,6 +9,8 @@ Elige un problema pequeño que puedas resolver sin pedir compra. Tres caminos po
 ## Antes y después de la solicitud
 Página: título preciso, público, contenido, costo y uso de datos, botón y confirmación. Entrega: correo o página con acceso funcional. Seguimiento: instrucciones de uso, ejemplo, pregunta de progreso y oferta opcional. Baja: salida accesible y registro de preferencia. Evita listas compradas y supuestos de permiso cruzado entre canales.
 
+En GoHighLevel, una ruta de entrega útil debe pensarse como sistema y no solo como formulario: **solicitud → registro del origen → entrega del recurso → ubicación correcta en CRM/pipeline → seguimiento → salida**. Si ya existen tags, etapas o workflows para esa función, reutilízalos; no crees nombres paralelos por conveniencia. La entrega debe comprobarse antes de iniciar seguimiento comercial.
+
 ## Diagnóstico de la ruta
 | Señal | Interpretación posible | Acción |
 | --- | --- | --- |
