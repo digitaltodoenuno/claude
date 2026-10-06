@@ -31,6 +31,10 @@ Antes de guardar información que cruce proyectos, consultar el mapa maestro int
 
 Regla: **responsabilidad canónica primero, Topics como señal de confirmación**. Si varios repositorios comparten un Topic, no duplicar contenido; guardar el detalle en la fuente más específica y enlazarlo cuando otra área lo necesite.
 
+## Referencias creativas DTU
+
+- [Formatos interactivos tomados de referencias de video — 2026-10-06](docs/referencias-video-formatos-interactivos-dtu-2026-10-06.md): storytelling de oferta, CTA por palabra clave y formato participativo “yo pongo el problema, ustedes la solución”.
+
 ## Mapas visuales de productos y programas
 
 - [Guía y prompts: crea el mapa visual de tu programa](docs/mapa-visual-producto-programa.md).
