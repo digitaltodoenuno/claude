@@ -36,3 +36,6 @@ N10. **Entrega.** Entregar a DTU un informe en español con evidencia, alcance, 
 - No almacenar capturas sensibles, binarios ajenos o secretos en el repositorio de skills.
 
 **Fuentes:** [REA original](https://github.com/morluto/rea) · [Skill de REA](https://github.com/morluto/rea/tree/main/.agents/skills/reverse-engineer-anything) · [Documentación oficial en español](https://github.com/morluto/rea/blob/main/docs/readme/README_es.md).
+
+## G200-X — regla operativa vigente de experimentación reversible
+**Consultar obligatoriamente [G200-X-EXPERIMENTACION.md](references/G200-X-EXPERIMENTACION.md) cuando se pida analizar, recrear o mejorar una aplicación.** Priorizar una primera prueba vertical recuperable frente a análisis indefinidos. El modo predeterminado es laboratorio autónomo en entorno aislado, con checkpoints y pruebas; no extender esa autonomía a instalaciones, producción, terceros, credenciales o costos. Trabajar función por función, clasificar REPRODUCIR/MEJORAR/CREAR/DESCARTAR y conservar avances válidos cuando otra hipótesis falle. Para extensiones Chrome ZIP, empezar por inspección estática de manifest y scripts sin exigir REA ni Hopper.
